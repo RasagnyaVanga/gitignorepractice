@@ -1,6 +1,6 @@
-added the subdirectories according to requirements
-added the .gitignore file
-seen the process that the files in working area can be ignored while commiting to remote
-used git log 
-it showed all the commits
+1. added the subdirectories according to requirements
+2. added the .gitignore file
+3. seen the process that the files in working area can be ignored while commiting to remote
+4. used git log 
+5. it showed all the commits
 
